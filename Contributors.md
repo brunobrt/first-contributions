@@ -58,6 +58,7 @@ theerrors
 - [Tulsi Jain](https://github.com/tulsiksng)
 - [Uyin Solomon](https://github.com/rootleet)
 - [Brandon Allen](https://github.com/eldon2)
+- [Bruno Bartolomasi](https://github.com/brunobrt)
 - [Jack Rosenblatt](https://github.com/JackRosenblatt1)
 - [Cassandra Lee](https://github.com/yieng)
 - [Elvis Salaton](https://github.com/Salaton)
